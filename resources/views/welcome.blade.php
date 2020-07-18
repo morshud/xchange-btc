@@ -24,7 +24,7 @@
     <div class="container">
       <div class="row">
         <div class="col-md-6">
-          <img src="/img/abt.png" alt="" srcset="">
+          <img src="/img/abt.png" style="object-fit: contain;width: 100%;" alt="" srcset="">
         </div>
         <div class="col-md-6 my-font-2">
           <h1>About Worldxchangetrade</h1>
@@ -59,6 +59,9 @@
           <img src="https://www.venus16xchange.com/icons/steam.png" alt="">
       </div>
     </div>
+    <div class="text-center">
+      <a href="#" class="btn my-btn">Trade Now</a>
+    </div>
   </div>
   <div class="content-block-two" id="features">
     <div class="container">
@@ -76,11 +79,11 @@
       <div class="row">
         <div class="col-md-4">
           <div class="my-card">
-            <div class="row">
-              <div class="col-md-8">
+            <div class="clearfix">
+              <div class="float-left">
                 <h4>Fast Payment</h4>
               </div>
-              <div class="col-md-4">
+              <div class="float-right">
                 <i class="fontawesome-icon .circle-yes fa fa-credit-card" style="font-size: 22.88px;
                 line-height: 43.76px;
                 height: 45.76px;
@@ -88,6 +91,8 @@
                 border-width: 1px;
                 margin-left: 13px;"></i>
               </div>
+            </div>
+            <div class="row">
               <div class="col-md-12">
                 <p>
                   All trades are done at speed of light without any compromise. 
@@ -100,11 +105,11 @@
         </div>
         <div class="col-md-4">
           <div class="my-card">
-            <div class="row">
-              <div class="col-md-8">
+            <div class="clearfix">
+              <div class="float-left">
                 <h4>Limitless Cashout</h4>
               </div>
-              <div class="col-md-4">
+              <div class="float-right">
                 <i class="fontawesome-icon .circle-yes fa fa-money-bill" style="font-size: 22.88px;
                 line-height: 43.76px;
                 height: 45.76px;
@@ -112,6 +117,8 @@
                 border-width: 1px;
                 margin-left: 13px;"></i>
               </div>
+            </div>
+            <div class="row">
               <div class="col-md-12">
                 <p>
                   We do not put any limit to how much you can cash out, 
@@ -124,11 +131,11 @@
         </div>
         <div class="col-md-4">
           <div class="my-card">
-            <div class="row">
-              <div class="col-md-8">
+            <div class="clearfix">
+              <div class="float-left">
                 <h4>Safe and Secure</h4>
               </div>
-              <div class="col-md-4">
+              <div class="float-right">
                 <i class="fontawesome-icon .circle-yes fas fa-shield-alt" style="font-size: 22.88px;
                 line-height: 43.76px;
                 height: 45.76px;
@@ -136,6 +143,8 @@
                 border-width: 1px;
                 margin-left: 13px;"></i>
               </div>
+            </div>
+            <div class="row">
               <div class="col-md-12">
                 <p>
                   Our Transaction process is safe and secure. 
@@ -150,11 +159,11 @@
       <div class="row mt-5">
         <div class="col-md-4">
           <div class="my-card">
-            <div class="row">
-              <div class="col-md-8">
+            <div class="clearfix">
+              <div class="float-left">
                 <h4>24/7 Availability</h4>
               </div>
-              <div class="col-md-4">
+              <div class="float-right">
                 <i class="fontawesome-icon .circle-yes fas fa-hourglass" style="font-size: 22.88px;
                 line-height: 43.76px;
                 height: 45.76px;
@@ -162,23 +171,24 @@
                 border-width: 1px;
                 margin-left: 13px;"></i>
               </div>
+            </div>
+            <div class="row">
               <div class="col-md-12">
                 <p>
                   We are always online and ready to trade, 
                   an agent is always available to tend to all your needs effectively and immediately.
                 </p>
               </div>
-              
             </div>
           </div>
         </div>
         <div class="col-md-4">
           <div class="my-card">
-            <div class="row">
-              <div class="col-md-8">
+            <div class="clearfix">
+              <div class="float-left">
                 <h4>Most Credible</h4>
               </div>
-              <div class="col-md-4">
+              <div class="float-right">
                 <i class="fontawesome-icon .circle-yes fas fa-lemon" style="font-size: 22.88px;
                 line-height: 43.76px;
                 height: 45.76px;
@@ -186,6 +196,8 @@
                 border-width: 1px;
                 margin-left: 13px;"></i>
               </div>
+            </div>
+            <div class="row">
               <div class="col-md-12">
                 <p>
                   We take pride in giving customers the best of 
@@ -198,11 +210,11 @@
         </div>
         <div class="col-md-4">
           <div class="my-card">
-            <div class="row">
-              <div class="col-md-8">
+            <div class="clearfix">
+              <div class="float-left">
                 <h4>Technical Support</h4>
               </div>
-              <div class="col-md-4">
+              <div class="float-right">
                 <i class="fontawesome-icon .circle-yes fas fa-headset" style="font-size: 22.88px;
                 line-height: 43.76px;
                 height: 45.76px;
@@ -210,6 +222,8 @@
                 border-width: 1px;
                 margin-left: 13px;"></i>
               </div>
+            </div>
+            <div class="row">
               <div class="col-md-12">
                 <p>
                   Our Transaction process is safe and secure. 
@@ -223,4 +237,59 @@
       </div>
     </div>
   </div>
+  <div class="content-block-one">
+    <div class="row justify-content-center mt-3 mb-5">
+      <img src="https://venus16xchange.com/icons/gift-cards.png" alt="" srcset="">
+    
+    </div>
+    <div class="text-center mb-5">
+      <a href="#" class="btn my-btn">Trade Now</a>
+    </div>
+  </div>
+  <div class="content-block-two" id="features">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-5 pt-4 pb-4">
+          <h1>How to Get it Done?</h1>
+          <p>
+            The process of exchanging gift cards and Bitcoin for naira on our platform is very easy and simple. 
+            Below is a summary of how to have an easy and interesting trade section with Henzionik.
+          </p>
+          <a href="#" class="btn my-btn-2">Trade Now</a>
+        </div>
+        <div class="col-md-7 pt-4 pb-4">
+          <div class="col">
+            <div class="display-heading ">
+              <div class="icon">
+                <i class="fontawesome-icon .circle-yes fab fa-whatsapp" style="border-color: rgba(77,57,233,0);
+                border-width: 0px;
+                background-color: #e13b39;
+                box-sizing: content-box;
+                height: 48px;
+                width: 48px;
+                margin-right: 10px;
+                line-height: 48px;border-radius: 100%;color: #ffffff;font-size: 24px;"></i>
+              </div>
+              <div class="content-box">
+                <h2>
+                  1. To Begin With
+                </h2>
+              </div>
+            </div>
+          </div>
+          <div class="col">
+            <div class="content-container">
+              <p>
+                To initiate a trade, you have to contact us on Whatsapp at +2348132644435 or just click here. 
+                We carry out trade activities on Whatsapp because it is more interactive. 
+              </p>
+            </div>
+          </div>
+          
+
+        </div>
+      </div>
+    </div>
+  </div>
+
 @endsection
