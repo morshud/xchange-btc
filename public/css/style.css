@@ -1,0 +1,167 @@
+/* navbar */
+.navbar-default {
+    background-color: transparent;
+    border-color: transparent;
+    margin-bottom: 0px;
+    position: fixed;
+    width: 100%;
+    border-radius: 0px;
+    z-index: 10007;
+}
+
+.overlay{
+    background-color: #1b2032;
+    background-image: url("https://www.henzionik.com.ng/storage/2019/01/avada-crypto-header-bg.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    padding-top: 12%;
+    padding-right: 30px;
+    padding-bottom: 0px;
+    padding-left: 30px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.my-font h1{
+    font-family: 'Poppins', "Arial Black", sans-serif;
+    font-size: 46px;
+    font-weight: bolder;
+    line-height: 1.25em;
+}
+.my-font p{
+    line-height: 2em;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.my-font-2 h1{
+    font-family: 'Poppins', "Arial Black", sans-serif;
+    font-size: 35px;
+    font-weight: bolder;
+    line-height: 1.25em;
+}
+.my-font-2 p{
+    line-height: 2em;
+    font-weight: 500;
+    font-size: 16px;
+}
+.my-btn{
+    background: #06002d;
+    border-radius: 0;
+    color: #fff;
+    padding: 10px 37px;
+    line-height: 1.5em;
+}
+.my-btn:hover{
+    color: #cabdbd;;
+}
+.my-card{
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    padding: 40px 40px 30px;
+    background-position: left top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: auto;
+}
+.my-card h4{
+    font-size: 18px;
+    font-weight: bold;
+}
+.my-card p{
+    color: rgba(255,255,255,0.8);
+    font-size: 16px;
+}
+.my-gift-cards img {
+  width: 280px;
+}
+
+.my-rates .my-gift-card {
+  background-color: #fff;
+  border-radius: 5px;
+  border: .5px solid #d9d9d9;
+  background-repeat: no-repeat;
+  background-position: 100% 0;
+  padding: 16px;
+  max-width: 200px;
+  margin: auto;
+}
+i.fontawesome-icon{
+    color: #ffffff;
+    background-color: #125300;
+    border-color: rgba(255,255,255,0);
+    border-radius: 50%;
+    background-clip: inherit;
+    border-style: solid;
+    text-align: center;
+}
+i{
+    font-size: 22.88px;
+    line-height: 43.76px;
+    height: 45.76px;
+    width: 45.76px;
+    border-width: 1px;
+    margin-left: 13px;
+}
+.content-block-one {
+  padding: 0px 30px;
+  margin-bottom: 0px;
+  color: inherit;
+  background-color: #eee;
+}
+.content-block-two {
+    padding: 50px 30px;
+    margin-bottom: 0px;
+    color: #fff;
+    background-color: rgb(1, 1, 45);
+  }
+.content-block-one > hr {
+  border-top-color: #d5d5d5;
+}
+.container .content-block-one {
+  border-radius: 6px;
+}
+.content-block-one .container {
+  max-width: 100%;
+}
+@media screen and (min-width: 768px) {
+  .content-block-one {
+    padding-top: 48px;
+    padding-bottom: 48px;
+  }
+  .container .content-block-one {
+    padding-right: 60px;
+    padding-left: 60px;
+  }
+}
+.content-space-one {
+  padding: 0px;
+  margin-bottom: 0px;
+  color: inherit;
+  background: url(http://placehold.it/1200x650/0033cc/ffffff) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+.content-space-two {
+  padding: 0px;
+  margin-bottom: 0px;
+  color: inherit;
+  background: url(http://placehold.it/1200x650/cc0000/ffffff) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+.page-break {
+    width: 50%;
+    height: 3px;
+    background-color: #fff;
+    margin: 0 auto;
+}
