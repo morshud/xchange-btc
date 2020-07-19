@@ -56,6 +56,14 @@
     line-height: 1.5em;
 }
 
+.my-brand img{
+  object-fit: contain;
+  width: 13%;
+  position: absolute;
+  top: 20%;
+  left: 4%;
+}
+
 .my-text{
   color: #06002d;
 }
@@ -309,6 +317,43 @@ i.fontawesome-icon{
   .display-heading .content-box h2{
     font-size: 18px; 
     line-height: 1.21em;
+  }
+
+  .my-brand img{
+    object-fit: contain;
+    width: 15%;
+    position: absolute;
+    top: 13%;
+    left: 80%;
+  }
+
+  .my-visibility{
+    visibility: hidden;
+  }
+
+  .navbar-default {
+    background-color: rgb(1, 1, 45);
+    border-color: transparent;
+    margin-bottom: 0px;
+    position: fixed;
+    width: 100%;
+    border-radius: 0px;
+    z-index: 10007;
+  }
+
+  .overlay{
+    background-color: #1b2032;
+    background-image: url("/img/background.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    padding-top: 18%;
+    padding-right: 30px;
+    padding-bottom: 0px;
+    padding-left: 30px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
   }
   
 }

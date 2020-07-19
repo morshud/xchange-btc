@@ -13,10 +13,10 @@
           <p>
               Worldxchangetrade Effective makes it safe and easy to buy and sell Giftcards, Bitcoin, Ethereum, Ripple, Litecoin and other cryptocurrencies using your local currency.
           </p>
-          <a href="#" class="btn my-btn">Trade Now</a>
+          <a href="https://wa.link/171bim" class="btn my-btn">Trade Now</a>
         </div>
         <div class="col-md-6">
-          <img src="/img/card.png" style="object-fit: contain; width: 100%;" alt="" srcset="">
+          <img src="/img/card.png" class="my-visibility" style="object-fit: contain; width: 100%;" alt="" srcset="">
         </div>
       </div>
     </div>
@@ -44,7 +44,7 @@
             We buy Physical Cards, Ecodes, big Denomination Cards, cards with receipts, 
             cards without receipts, we also buy bitcoins and RMB, and we pay in Naira within 5minutes.
           </p>
-          <a href="#" class="btn my-btn">Trade Now</a>
+          <a href="https://wa.link/171bim" class="btn my-btn">Trade Now</a>
         </div>
       </div>
     </div>
@@ -62,7 +62,7 @@
       </div>
     </div>
     <div class="text-center">
-      <a href="#" class="btn my-btn">Trade Now</a>
+      <a href="https://wa.link/171bim" class="btn my-btn">Trade Now</a>
     </div>
   </div>
   <div class="content-block-two" id="features">
@@ -245,10 +245,10 @@
     
     </div>
     <div class="text-center mb-5">
-      <a href="#" class="btn my-btn">Trade Now</a>
+      <a href="https://wa.link/171bim" class="btn my-btn">Trade Now</a>
     </div>
   </div>
-  <div class="content-block-two" id="features">
+  <div class="content-block-two" id="how">
     <div class="container">
       <div class="row">
         <div class="col-md-5 pt-4 pb-4">
@@ -257,7 +257,7 @@
             The process of exchanging gift cards and Bitcoin for naira on our platform is very easy and simple. 
             Below is a summary of how to have an easy and interesting trade section with Henzionik.
           </p>
-          <a href="#" class="btn my-btn-2">Trade Now</a>
+          <a href="https://wa.link/171bim" class="btn my-btn-2">Trade Now</a>
         </div>
         <div class="col-md-7 pt-4 pb-4">
           <div class="col">
@@ -383,7 +383,7 @@
       </div>
     </div>
   </div>
-  <div class="content-block-one" id="features">
+  <div class="content-block-one" id="faq">
     <div class="container">
       <div class="row">
         <div class="col-md-5 pt-4 pb-4">
@@ -392,7 +392,7 @@
             We like it while our clients ask questions. we're constantly eager to give a useful reaction. 
             beside are a number of the most frequently requested questions regarding Worldxchangetrade:
           </p>
-          <a href="#" class="btn my-btn">Trade Now</a>
+          <a href="https://wa.link/171bim" class="btn my-btn">Trade Now</a>
         </div>
         <div class="col-md-7 pt-4 pb-4">
           
@@ -492,7 +492,7 @@
     </div>
   </div>
 
-  <div class="content-block-two" id="features">
+  <div class="content-block-two" id="benefit">
     <div class="container">
       <div class="row">
         <div class="col-md-6 pt-4 pb-4">
@@ -504,13 +504,13 @@
             Get started trading your gift cards and Cryptocurrency on Henzionik Effective Communications like the bosses do.
             Wait no more: 
           </p>
-          <a href="#" class="btn my-btn-2">Trade Now</a>
+          <a href="https://wa.link/171bim" class="btn my-btn-2">Initiate Trade Now</a>
         </div>
       </div>
     </div>
   </div>
 
-  <div class="content-block-one" id="features">
+  <div class="content-block-one" id="contact">
     <div class="container">
       <h1 class="mt-5 mb-5">Send us your suggestions, remarks and questions about our services</h1>
       <div class="row">
@@ -564,21 +564,23 @@
         
         <div class="col-md-6 mt-5 pt-5 pb-4">
           
-          <div class="mb-2">
-              <span>
-                  <a target="_blank" class="text-dark" href="tel:+2348067181777">+2348067181777</a>
-              </span>
-          </div>
           <div class="mb-2 d-flex align-items-start py-2">
               <span>
-                  <a href="mailto:support@venus12xchange.com" class="text-dark">support@venus16xchange.com</a>
+                  <i class="fab fa-whatsapp">&nbsp;</i><a target="_blank" class="text-dark" href="tel:+23488026689687">+2348026689687 </a>
                   <br>
-                  <a href="mailto:contact@venus12xchange.com" class="text-dark">contact@venus16xchange.com</a>
+                  <i class="fas fa-phone"></i>&nbsp;<a target="_blank" class="text-dark" href="tel:+2348067181777">+2348026689687 </a>
               </span>
           </div>
           <div class="mb-2 d-flex align-items-start py-2">
               <span>
-                  <a href="#" class="text-dark">Sango-Ota, Ogun State,</a>
+                <i class="fas fa-envelope"></i>&nbsp;<a href="mailto:support@worldxchangetrade.com" class="text-dark">support@worldxchangetrade.com</a>
+                  <br>
+                  <i class="fas fa-envelope"></i>&nbsp;<a href="mailto:contact@worldxchangetrade.com" class="text-dark">contact@worldxchangetrade.com</a>
+              </span>
+          </div>
+          <div class="mb-2 d-flex align-items-start py-2">
+              <span>
+                <i class="fas fa-map-marker-alt"></i>&nbsp;<a href="#" class="text-dark">Sango-Ota, Ogun State,</a>
                   <br>
                   <a href="#" class="text-dark"> Nigeria</a>
               </span>

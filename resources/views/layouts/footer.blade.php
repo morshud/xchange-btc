@@ -12,7 +12,7 @@
     <div class="container">
       <div class="row">
         <a href="/" class="mb-3">
-          <img src="https://venus16xchange.com/icons/venus21.png" alt="" style="width: 225px;">
+          <img src="/img/logo.png" alt="" style="object-fit:contain; width: 20%;">
         </a>
         <span class="text-gray text-justify">
           On here, you can Sell your iTunes gift cards as well as other cards at the best rates.
