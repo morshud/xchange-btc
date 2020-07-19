@@ -7,3 +7,41 @@
 <script>
     new WOW().init();
 </script>
+
+<footer class="content-block-two">
+    <div class="container">
+      <div class="row">
+        <a href="/" class="mb-3">
+          <img src="https://venus16xchange.com/icons/venus21.png" alt="" style="width: 225px;">
+        </a>
+        <span class="text-gray text-justify">
+          On here, you can Sell your iTunes gift cards as well as other cards at the best rates.
+          We take pride in giving our customers the best of satisfaction and we have proven records for justification.
+          We have been in business since 2018 and growing stronger in the gift cards industry.
+        </span>
+        <div class="my-social mt-3 mb-3">
+          <ul>
+            <li>
+              <a href="#"><i class="fab fa-facebook-f"></i></a>
+            </li>
+            <li>
+              <a href="#"><i class="fab fa-instagram"></i></a>
+            </li>
+            <li>
+              <a href="#"><i class="fab fa-twitter"></i></a>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div class="row border-top">
+        <div class="col-md-6 mt-3">
+            <span class="text-gray pt-2">
+                &copy; Copyright 2020 All Rights Reserved | Worldxchangetrade
+            </span>
+        </div>
+        <div class="col-md-6 mt-3 text-right">
+            <span>Developed by <a class="text-gray" href="http://github.com/morshud">Lotus</a></span>
+        </div>
+      </div>
+    </div>
+</footer>

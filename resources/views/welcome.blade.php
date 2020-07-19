@@ -15,7 +15,9 @@
           </p>
           <a href="#" class="btn my-btn">Trade Now</a>
         </div>
-        <div class="col-md-6"></div>
+        <div class="col-md-6">
+          <img src="/img/card.png" style="object-fit: contain; width: 100%;" alt="" srcset="">
+        </div>
       </div>
     </div>
   </div>
@@ -251,7 +253,7 @@
       <div class="row">
         <div class="col-md-5 pt-4 pb-4">
           <h1>How to Get it Done?</h1>
-          <p>
+          <p class="text-justify" style="line-height: 2em;">
             The process of exchanging gift cards and Bitcoin for naira on our platform is very easy and simple. 
             Below is a summary of how to have an easy and interesting trade section with Henzionik.
           </p>
@@ -263,7 +265,7 @@
               <div class="icon">
                 <i class="fontawesome-icon .circle-yes fab fa-whatsapp" style="border-color: rgba(77,57,233,0);
                 border-width: 0px;
-                background-color: #e13b39;
+                background-color: #b06300;
                 box-sizing: content-box;
                 height: 48px;
                 width: 48px;
@@ -286,8 +288,304 @@
             </div>
           </div>
           
+          <div class="col mt-5">
+            <div class="display-heading ">
+              <div class="icon">
+                <i class="fontawesome-icon .circle-yes fab fa-accessible-icon" style="border-color: rgba(77,57,233,0);
+                border-width: 0px;
+                background-color: #b06300;
+                box-sizing: content-box;
+                height: 48px;
+                width: 48px;
+                margin-right: 10px;
+                line-height: 48px;border-radius: 100%;color: #ffffff;font-size: 24px;"></i>
+              </div>
+              <div class="content-box">
+                <h2>
+                  2. Request Rate and Trade
+                </h2>
+              </div>
+            </div>
+          </div>
+          <div class="col">
+            <div class="content-container">
+              <p class="text-justify">
+                Once you send us a message, our agent will quickly reply you and send you our current rate, 
+                If you are okay with the rates ( of course, 
+                we give best rates always), then you can proceed with the trade as the agent will instruct you.
+              </p>
+            </div>
+          </div>
+
+          <div class="col mt-5">
+            <div class="display-heading ">
+              <div class="icon">
+                <i class="fontawesome-icon .circle-yes fas fa-gift" style="border-color: rgba(77,57,233,0);
+                border-width: 0px;
+                background-color: #b06300;
+                box-sizing: content-box;
+                height: 48px;
+                width: 48px;
+                margin-right: 10px;
+                line-height: 48px;border-radius: 100%;color: #ffffff;font-size: 24px;"></i>
+              </div>
+              <div class="content-box">
+                <h2>
+                  3. Send Giftcard / BTC
+                </h2>
+              </div>
+            </div>
+          </div>
+          <div class="col">
+            <div class="content-container">
+              <p class="text-justify">
+                If it is a physical gift card, you are to upload the picture. 
+                If it’s an ecode, you are to send the correct code. 
+                If your physical card is not clear enough, feel free to also send the code with the card. 
+                If it’s Bitcon, an address will be sent to you where you will transfer the said amount.
+              </p>
+            </div>
+          </div>
+
+          <div class="col mt-5">
+            <div class="display-heading ">
+              <div class="icon">
+                <i class="fontawesome-icon .circle-yes fab fa-accessible-icon" style="border-color: rgba(77,57,233,0);
+                border-width: 0px;
+                background-color: #b06300;
+                box-sizing: content-box;
+                height: 48px;
+                width: 48px;
+                margin-right: 10px;
+                line-height: 48px;border-radius: 100%;color: #ffffff;font-size: 24px;"></i>
+              </div>
+              <div class="content-box">
+                <h2>
+                  4. Verification & Instant Alert
+                </h2>
+              </div>
+            </div>
+          </div>
+          <div class="col">
+            <div class="content-container">
+              <p class="text-justify">
+                Our agent will take a moment to verify the uploaded card or Bitcoin Sent. 
+                This takes almost no time as it’s usually done in a Jiffy. 
+                Once the gift card has been verified successfully, 
+                you will be requested to send your bank details which includes Bank name, 
+                account number and account name. You will receive a screenshot once payment is sent
+                and your account will be credited almost instantly. We use the best for instant credit reflections..
+              </p>
+            </div>
+          </div>
 
         </div>
+      </div>
+    </div>
+  </div>
+  <div class="content-block-one" id="features">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-5 pt-4 pb-4">
+          <h1>FAQs?</h1>
+          <p class="text-justify text-bold" style="line-height: 2em;">
+            We like it while our clients ask questions. we're constantly eager to give a useful reaction. 
+            beside are a number of the most frequently requested questions regarding Worldxchangetrade:
+          </p>
+          <a href="#" class="btn my-btn">Trade Now</a>
+        </div>
+        <div class="col-md-7 pt-4 pb-4">
+          
+          <div class="accordion my-accordion" id="accordionExample">
+            <div class="card">
+              <div class="card-header" id="headingOne">
+                <h2 class="mb-0">
+                  <div class="clearfix">
+                    <div class="float-left">
+                      <button class="btn my-link float-left" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                        How do i trade?
+                      </button>
+                    </div>
+                    <div class="float-right">
+                      <button class="btn my-link float-right" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne"><i class="far fa-plus-square"></i></button>
+                    </div>
+                  </div>
+                </h2>
+              </div>
+          
+              <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
+                <div class="card-body">
+                  To initiate a trade, you have to contact us on Whatsapp at +2348132644435 or just click here. 
+                  We carry out trade activities on Whatsapp because it is more interactive.
+                </div>
+              </div>
+            </div>
+            <div class="card">
+              <div class="card-header" id="headingTwo">
+                <h2 class="mb-0">
+                  <div class="clearfix">
+                    <div class="float-left">
+                      <button class="btn my-link float-left" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
+                        How do i get paid?
+                      </button>
+                    </div>
+                    <div class="float-right">
+                      <button class="btn my-link float-right" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo"><i class="far fa-plus-square"></i></button>
+                    </div>
+                  </div>
+                </h2>
+              </div>
+              <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
+                <div class="card-body">
+                  Your money will get credited to your account within 5 minutes after verification of transaction.
+                </div>
+              </div>
+            </div>
+            <div class="card">
+              <div class="card-header" id="headingThree">
+                <h2 class="mb-0">
+                  <div class="clearfix">
+                    <div class="float-left">
+                      <button class="btn my-link float-left" data-toggle="collapse" data-target="#collapseThree" aria-expanded="true" aria-controls="collapseThree">
+                        Are you accessible 24/7?
+                      </button>
+                    </div>
+                    <div class="float-right">
+                      <button class="btn my-link float-right" data-toggle="collapse" data-target="#collapseThree" aria-expanded="true" aria-controls="collapseThree"><i class="far fa-plus-square"></i></button>
+                    </div>
+                  </div>
+                </h2>
+              </div>
+              <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+                <div class="card-body">
+                  Yes, we are available for trades all the time if you 
+                  have any gift cards or cryptocurrency feel free to trade with us.
+                </div>
+              </div>
+            </div>
+
+            <div class="card">
+              <div class="card-header" id="headingFour">
+                <h2 class="mb-0">
+                  <div class="clearfix">
+                    <div class="float-left">
+                      <button class="btn my-link float-left" type="button" data-toggle="collapse" data-target="#collapseFour" aria-expanded="true" aria-controls="collapseFour">
+                        What is the limit you buy?
+                      </button>
+                    </div>
+                    <div class="float-right">
+                      <button class="btn my-link float-right" data-toggle="collapse" data-target="#collapseFour" aria-expanded="true" aria-controls="collapseFour"><i class="far fa-plus-square"></i></button>
+                    </div>
+                  </div>
+                </h2>
+              </div>
+              <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordionExample">
+                <div class="card-body">
+                  We have no limit. No minimum or maximum any gift cards or cryptocurrency you bring, we buy.
+                </div>
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="content-block-two" id="features">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6 pt-4 pb-4">
+          <img src="/img/abt2.png" style="object-fit: contain; width: 100%" alt="" srcset="">
+        </div>
+        <div class="col-md-6 pt-4 pb-4">
+          <h1>Are You Ready to Trade Your Cryptocurrency & Gift Cards With Us?</h1>
+          <p class="text-justify" style="line-height: 2em;">
+            Get started trading your gift cards and Cryptocurrency on Henzionik Effective Communications like the bosses do.
+            Wait no more: 
+          </p>
+          <a href="#" class="btn my-btn-2">Trade Now</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="content-block-one" id="features">
+    <div class="container">
+      <h1 class="mt-5 mb-5">Send us your suggestions, remarks and questions about our services</h1>
+      <div class="row">
+        <div class="col-md-6">
+            <div class="mr-5 mb-5 p-5 bg-white shadow-lg rounded">
+            <div class="border-bottom mb-4">
+              <h3 class="text-center my-text">Send us a message or Request a call</h3>
+            </div>
+            <form action="contactform" class="pb-5" method="post">
+              @csrf
+                <div class="form-row">
+                    <div class="col">
+                        <div class="form-group">
+                            <label for="Fullname">Full Name</label>
+                            <input type="text" required="" class="my-input" name="name" id="" placeholder="Enter your name">
+                        </div>
+                    </div>
+                </div>
+                <div class="form-row">
+                    <div class="col">
+                        <div class="form-group">
+                            <label for="Email">Email address</label>
+                            <input type="email" required="" class="my-input" name="email" id="" placeholder="Enter your email address">
+                        </div>
+                    </div>
+                </div>
+                <div class="form-row">
+                    <div class="col">
+                        <div class="form-group">
+                            <label for="Telephone">Telephone</label>
+                            <input type="number" required="" class="my-input" name="phone" id="" placeholder="e.g +2348123456789">
+                        </div>
+                    </div>
+                </div>
+                <div class="form-row">
+                    <div class="col">
+                        <div class="form-group">
+                            <label for="Message">Message</label>
+                            <textarea required="" name="message" rows="7" class="my-input" placeholder="Type your message" style="margin-top: 0px; margin-bottom: 0px; height: 150px;"></textarea>
+                        </div>
+                    </div>
+                </div>
+                <div class="form-row d-flex flex-column justify-content-center">
+                    <div class="col">
+                        <button type="submit" class="btn my-btn btn-block">Submit</button>
+                    </div>
+                </div>
+            </form>
+          </div>
+        </div>
+        
+        <div class="col-md-6 mt-5 pt-5 pb-4">
+          
+          <div class="mb-2">
+              <span>
+                  <a target="_blank" class="text-dark" href="tel:+2348067181777">+2348067181777</a>
+              </span>
+          </div>
+          <div class="mb-2 d-flex align-items-start py-2">
+              <span>
+                  <a href="mailto:support@venus12xchange.com" class="text-dark">support@venus16xchange.com</a>
+                  <br>
+                  <a href="mailto:contact@venus12xchange.com" class="text-dark">contact@venus16xchange.com</a>
+              </span>
+          </div>
+          <div class="mb-2 d-flex align-items-start py-2">
+              <span>
+                  <a href="#" class="text-dark">Sango-Ota, Ogun State,</a>
+                  <br>
+                  <a href="#" class="text-dark"> Nigeria</a>
+              </span>
+          </div>
+    
+        </div>
+        
       </div>
     </div>
   </div>
