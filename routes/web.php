@@ -13,6 +13,8 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
+Route::post('/contactform', 'ContactController@contact_us');
+
 Route::get('/', function () {
     return view('welcome');
 });

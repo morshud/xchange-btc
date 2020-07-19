@@ -10,7 +10,7 @@
         
   
       <!-- Collect the nav links, forms, and other content for toggling -->
-      <div class="collapse navbar-collapse " id="collapsibleNavbar">
+      <div class="collapse navbar-collapse my-collapse" id="collapsibleNavbar">
         <ul class="navbar-nav m-auto ">
           <li class="nav-item">
             <a class="my-nav-link" href="/"><b>Home</b></a>
@@ -35,7 +35,7 @@
           </li> 
         </ul>
         <form class="ml-3">
-          <a href="#" class="btn btn-warning" style="border-radius: 0" target="_blank" rel="noopener noreferrer">Btc: 97689.23 </a>
+          <a href="#" class="btn btn-warning" style="border-radius: 0" target="_blank" rel="noopener noreferrer">1 BTC = ${{$result}} </a>
           <a href="https://wa.link/171bim" class="btn btn-outline-warning my-2 my-sm-0">Trade Now</a>
         </form>
     </div>  

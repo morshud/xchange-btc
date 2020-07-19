@@ -7,8 +7,8 @@
       <div class="row">
         <div class="col-md-6 text-white my-font">
           <h1>
-            Buy & Sell Gift Cards & Cryptocurrency
-            at Best Rates
+            Sell Your Gift Cards & Cryptocurrency
+            at Amazing Rates
           </h1>
           <p>
               Worldxchangetrade Effective makes it safe and easy to buy and sell Giftcards, Bitcoin, Ethereum, Ripple, Litecoin and other cryptocurrencies using your local currency.
@@ -26,13 +26,12 @@
     <div class="container">
       <div class="row">
         <div class="col-md-6">
-          <img src="/img/abt.png" style="object-fit: contain;width: 100%;" alt="" srcset="">
+          <img class="wow slideinLeft" src="/img/abt.png" style="object-fit: contain;width: 100%;" alt="" srcset="">
         </div>
-        <div class="col-md-6 my-font-2">
+        <div class="col-md-6 my-font-2 wow slideinRight">
           <h1>About Worldxchangetrade</h1>
           <p>
-            Henzionik is one of the best gift card trading platforms in Nigeria registered
-             under Nigeria’s Corporate Affairs Commision with the name ‘Henzionik Effective Communications’. 
+            Worldxchangetrade is one of the best gift card trading platforms in Nigeria.
              We have been in existence since 2016 trading gift cards and 
             cryptocurrencies and offering amazing services to customers in Nigeria and beyond.
           </p>
@@ -241,7 +240,7 @@
   </div>
   <div class="content-block-one">
     <div class="row justify-content-center mt-3 mb-5">
-      <img src="https://venus16xchange.com/icons/gift-cards.png" alt="" srcset="">
+      <img style="object-fit: contain; width: 100%;" src="https://venus16xchange.com/icons/gift-cards.png" alt="" srcset="">
     
     </div>
     <div class="text-center mb-5">
@@ -254,8 +253,8 @@
         <div class="col-md-5 pt-4 pb-4">
           <h1>How to Get it Done?</h1>
           <p class="text-justify" style="line-height: 2em;">
-            The process of exchanging gift cards and Bitcoin for naira on our platform is very easy and simple. 
-            Below is a summary of how to have an easy and interesting trade section with Henzionik.
+            The process of exchanging gift cards and Bitcoin for any currency on our platform is very easy and simple. 
+            Below is a summary of how to have an easy and interesting trade section with Worldxchangetrade.
           </p>
           <a href="https://wa.link/171bim" class="btn my-btn-2">Trade Now</a>
         </div>
@@ -282,7 +281,7 @@
           <div class="col">
             <div class="content-container">
               <p>
-                To initiate a trade, you have to contact us on Whatsapp at +2348132644435 or just click here. 
+                To initiate a trade, you have to contact us on Whatsapp at +2348026689687 or just <a href="https://wa.link/171bim">click here.</a> 
                 We carry out trade activities on Whatsapp because it is more interactive. 
               </p>
             </div>
@@ -415,7 +414,7 @@
           
               <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
                 <div class="card-body">
-                  To initiate a trade, you have to contact us on Whatsapp at +2348132644435 or just click here. 
+                  To initiate a trade, you have to contact us on Whatsapp at +2348026689687 or just <a href="https://wa.link/171bim">click here.</a> 
                   We carry out trade activities on Whatsapp because it is more interactive.
                 </div>
               </div>
@@ -501,7 +500,7 @@
         <div class="col-md-6 pt-4 pb-4">
           <h1>Are You Ready to Trade Your Cryptocurrency & Gift Cards With Us?</h1>
           <p class="text-justify" style="line-height: 2em;">
-            Get started trading your gift cards and Cryptocurrency on Henzionik Effective Communications like the bosses do.
+            Get started trading your gift cards and Cryptocurrency with Worldxchangetrade like the bosses do.
             Wait no more: 
           </p>
           <a href="https://wa.link/171bim" class="btn my-btn-2">Initiate Trade Now</a>
@@ -517,6 +516,11 @@
         <div class="col-md-6">
             <div class="mr-5 mb-5 p-5 bg-white shadow-lg rounded">
             <div class="border-bottom mb-4">
+              @if (session('success'))
+              <div class="alert alert-success">
+                  {{ session('success') }}
+              </div>
+              @endif
               <h3 class="text-center my-text">Send us a message or Request a call</h3>
             </div>
             <form action="contactform" class="pb-5" method="post">
@@ -568,7 +572,7 @@
               <span>
                   <i class="fab fa-whatsapp">&nbsp;</i><a target="_blank" class="text-dark" href="tel:+23488026689687">+2348026689687 </a>
                   <br>
-                  <i class="fas fa-phone"></i>&nbsp;<a target="_blank" class="text-dark" href="tel:+2348067181777">+2348026689687 </a>
+                  <i class="fas fa-phone"></i>&nbsp;<a target="_blank" class="text-dark" href="tel:+2349081683886">+2349081683886 </a>
               </span>
           </div>
           <div class="mb-2 d-flex align-items-start py-2">
@@ -580,9 +584,7 @@
           </div>
           <div class="mb-2 d-flex align-items-start py-2">
               <span>
-                <i class="fas fa-map-marker-alt"></i>&nbsp;<a href="#" class="text-dark">Sango-Ota, Ogun State,</a>
-                  <br>
-                  <a href="#" class="text-dark"> Nigeria</a>
+                <i class="fas fa-map-marker-alt"></i>&nbsp;<a href="#" class="text-dark"> Nigeria</a>
               </span>
           </div>
     

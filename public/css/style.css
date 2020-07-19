@@ -165,6 +165,10 @@
   box-shadow: 0 0 0 2px rgba(244, 144, 255, .2);
 }
 
+.my-collapse{
+  margin-left: 105px;
+}
+
 .my-accordion .card-header{
 
     padding: .75rem 1.25rem;
@@ -329,6 +333,10 @@ i.fontawesome-icon{
 
   .my-visibility{
     visibility: hidden;
+  }
+
+  .my-collapse{
+    margin-left: 0;
   }
 
   .navbar-default {
